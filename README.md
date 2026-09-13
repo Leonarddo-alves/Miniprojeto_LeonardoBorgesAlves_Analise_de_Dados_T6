@@ -22,6 +22,9 @@ A base contém informações como datas de compra, identificadores de transaçã
 
 ## Estrutura do Projeto
 
+## Estrutura do Projeto
+
+```text
 Miniprojeto_LeonardoBorgesAlves_Analise_de_Dados_T6/
 ├── Base de Dados/
 │   ├── base-varejo.csv
@@ -33,9 +36,9 @@ Miniprojeto_LeonardoBorgesAlves_Analise_de_Dados_T6/
 │   ├── grafico_distribuicao_filhos.png
 │   ├── grafico_evolucao_vendas.png
 │   └── grafico_genero_clientes.png
-└── Documentação
-    └──README_LeonardoBorgesAlves_Analise_de_Dados_T6.md
-
+├── Documentação/
+└── README_LeonardoBorgesAlves_Analise_de_Dados_T6.md
+````
     
 ## Status
 
