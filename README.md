@@ -34,7 +34,7 @@ Miniprojeto_LeonardoBorgesAlves_Analise_de_Dados_T6/
 │   ├── grafico_evolucao_vendas.png
 │   └── grafico_genero_clientes.png
 └── Documentação
-    ├── readme.md
+    ├── README_LeonardoBorgesAlves_Analise_de_Dados_T6.md
 ## Status
 
 Concluído.
